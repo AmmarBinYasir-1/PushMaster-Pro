@@ -48,20 +48,4 @@ PushMaster Pro is a premium AI-powered push-up counter web app that uses real-ti
 
 ---
 
-## 📄 Footer
-
 © 2026 PushMaster Pro — Train Smart. Train Perfect.
-
----
-
-## ⚠ Note
-
-AI systems can make mistakes. Always double-check workout tracking accuracy.
-
----
-
-## 📂 Installation
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/pushmaster-pro.git
